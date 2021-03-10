@@ -1,0 +1,34 @@
+1 Descrição:
+O aluno desenvolverá um sistema de anotações criptografadas usando Java sem bibliotecas de terceiros. As anotações devem ser criptografadas usando a cifra de Caesar.
+Este projeto será pontuado em até 10 pontos, e terá peso de 50% da A1.
+O aluno deve desenvolver também um documento descrevendo minimamente o projeto da aplicação, seguindo no mínimo os padrões UML apresentados nos slides de aula ou os do livro SOMMERVILLE (2011).
+
+O documento descritivo do projeto, valendo 4 pontos, deve incluir:
+• descrição geral da aplicação
+• diagramas de casos de uso
+• descrição dos estilos de arquitetura usados
+• diagramas de componentes
+• diagramas de serviços
+• diagramas de classes
+
+A aplicação, valendo 6 pontos, deverá atender aos seguintes requisitos:
+1. Usuário pode criar um arquivo de anotação de texto e para tanto deve entrar com uma senha que servirá para cifrar o arquivo.
+2. Usuário pode abrir e decifrar um arquivo de anotação já criado e salvo.
+3. Usuário pode ver uma anotação aberta e decifrada.
+4. Usuário pode editar a anotação.
+5. Quando o usuário fechar a aplicação o arquivo de anotações será armazenado de forma criptografada com a cifra de Caesar.
+Todo o código deve ser comentado linha a linha.
+
+2 Entregas e prazos:
+Entrega via Blackboard, na atividade A1-B da página de atividades:
+• Arquivo compactado no formato ZIP com o documento descritivo do projeto e o projeto implementado e exportado do Eclipse.
+• Prazo até 20/10/2020. Se for entregue atrasado será aplicado multa de 20% na nota máxima por dia de atraso, até que a nota se torne 0.
+
+3 Observações
+Entregas deverão ser feitas pelo Blackboard a não ser que seja informado outro destino. 
+Durante as aulas, no momento das práticas, as equipes podem e devem fazer consultas ao professor sobre o projeto.
+Descumprimento dos prazos levam a multa de 20% por dia de atraso na nota do item sendo entregue.
+
+4 Referências
+SOMMERVILLE, Ian. Engenharia de Software. 9. ed. São Paulo: Pearson
+Prentice Hall, 2011. 
